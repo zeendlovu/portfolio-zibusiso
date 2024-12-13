@@ -5,12 +5,9 @@ import {
   html,
   css,
   reactjs,
-  redux,
   tailwind,
   nodejs,
   mongodb,
-  git,
-  figma,
   docker,
   stc,
   omni,
@@ -23,11 +20,8 @@ import {
   java,
   awsLogo,
   postgres,
-  influxdb,
   python,
   spring,
-  arduino,
-  raspberrypi
 } from "../assets";
 
 export const navLinks = [
@@ -90,10 +84,6 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
     name: "Tailwind CSS",
     icon: tailwind,
   },
@@ -104,14 +94,6 @@ const technologies = [
   {
     name: "MongoDB",
     icon: mongodb,
-  },
-  {
-    name: "git",
-    icon: git,
-  },
-  {
-    name: "figma",
-    icon: figma,
   },
   {
     name: "docker",
@@ -130,25 +112,13 @@ const technologies = [
     icon: postgres
   },
   {
-    name: "influxdb",
-    icon: influxdb
-  },
-  {
     name: "python",
     icon: python
   },
   {
     name: "spring",
     icon: spring
-  },
-  {
-    name: "arduino",
-    icon: arduino
-  },
-  {
-    name: "raspberrypi",
-    icon: raspberrypi
-  },
+  }
 ];
 
 const education = [
