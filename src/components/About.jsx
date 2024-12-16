@@ -49,7 +49,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-5xl leading-[30px] text-justify'
       >
-        <div className="flex gap-8 sm:flex-col md:flex-col lg:flex-row">
+        <div className="flex gap-8 xs:flex-col sm:flex-col md:flex-col lg:flex-row">
           <div className="basis-3/4">
             I am a results-driven software developer with 2 years of experience designing, developing,
             and maintaining robust applications. Proficient in full-stack development with expertise
